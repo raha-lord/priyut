@@ -40,7 +40,6 @@ body {
 }
 #shelter .carousel-item {
   width: 100%;
-  max-height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
